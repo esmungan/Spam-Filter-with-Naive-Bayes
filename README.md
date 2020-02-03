@@ -1,3 +1,4 @@
+## SMS Spam filter with Multinomial Naive Bayes Algorithm
 This project is done as a part of Conditional Probability class on DataQuest.
 
 * **Concepts learned:** Naive Bayes Algorithm, Pandas-Numpy usage, Impact of different data cleaning schemes on the model's outcome
